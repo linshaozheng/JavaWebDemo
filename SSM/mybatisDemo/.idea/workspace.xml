@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31d572d0-34f8-4bbd-aef6-94e540522d9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Sdifv\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\Sdifv\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VlOyBptZL15aMTdKfXBgSronu8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.testFindUserInfoByUserName">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="mybatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testAddUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="testAddUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testFindUserInfoByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="testFindUserInfoByUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testUpdateUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="testUpdateUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testFindUserInfoByUserName" />
+        <item itemvalue="JUnit.AppTest.testUpdateUserInfo" />
+        <item itemvalue="JUnit.AppTest.testAddUserInfo" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d572d0-34f8-4bbd-aef6-94e540522d9f" name="Default Changelist" comment="" />
+      <created>1577824466296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577824466296</updated>
+      <workItem from="1577824467891" duration="12594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="91" key="#Project_Structure" timestamp="1577824785616">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="389" y="91" key="#Project_Structure/62.0.1474.864@62.0.1474.864" timestamp="1577824785616" />
+    <state x="389" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577861705816">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="389" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1577861705816" />
+    <state x="605" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1577829610009">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="605" y="149" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1577829610009" />
+    <state x="579" y="291" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577832321198">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="579" y="291" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1474.864@62.0.1474.864" timestamp="1577832321198" />
+    <state x="581" y="187" key="FileChooserDialogImpl" timestamp="1577832411203">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="581" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1577832411203" />
+    <state width="1431" height="227" key="GridCell.Tab.0.bottom" timestamp="1577869478676">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="227" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1577869478676" />
+    <state width="1431" height="227" key="GridCell.Tab.0.center" timestamp="1577869478676">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="227" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1577869478676" />
+    <state width="1431" height="227" key="GridCell.Tab.0.left" timestamp="1577869478676">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="227" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1577869478676" />
+    <state width="1431" height="227" key="GridCell.Tab.0.right" timestamp="1577869478676">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="227" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1577869478676" />
+    <state x="209" y="134" key="new project wizard" timestamp="1577832416837">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="209" y="134" key="new project wizard/62.0.1474.864@62.0.1474.864" timestamp="1577832416837" />
+  </component>
+</project>
